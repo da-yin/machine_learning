@@ -32,3 +32,5 @@ machine learning with r
 https://fderyckel.github.io/machinelearningwithr/
 Classification Trees in Python, From Start To Finish
 https://www.coursera.org/projects/classification-trees-in-python
+Modern Statistics for Modern Biology
+https://www.huber.embl.de/msmb/index.html
