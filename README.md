@@ -5,6 +5,9 @@
 ### model evaluation metrics
 This post talks about different metrics for Imbalanced Classification
 https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
+This post talks about fine tuning decision trees
+https://www2.mpia-hd.mpg.de/homes/dgoulier/MLClasses/Course%20-%20Supervised%20Learning%20for%20Classification%20with%20R.html#chapter_4:_classification_trees
+
 
 
 ### feature selection methods
